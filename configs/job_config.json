@@ -1,0 +1,11 @@
+[
+  {
+    "source": "github",
+    "username": "markmzhachikh",
+    "token": "ghp_INSERT-YOUR-TOKEN_HERE"
+  }, {
+    "source": "gitlab",
+    "username": "Av1chem",
+    "token": "glpat-INSERT-YOUR-TOKEN_HERE"
+  }
+]
